@@ -45,6 +45,7 @@ Plans:
     - Add progress bar
     - Display file list and metadata
     - Allow users to use the windows file selector to select files, directories and destinations
+  - Add multuthreading so trasnalted names can be applied while translation continues
 
 - Check/Research
   - Check if translating chunks to Japanese is the same as translating each line to Japanese
