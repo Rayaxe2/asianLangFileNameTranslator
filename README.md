@@ -1,4 +1,4 @@
-# asianLangFileNameTranslator
+# AsianLangFileNameTranslator
 Translates mp3 file names (within a given directory and it's sub directories) written in Japanese, mandarin, Cantonese, Korean (and a few other languages) text to English. It's pretty cave-man ish - It'll properly organise it later.
 
 Accomplishments:
