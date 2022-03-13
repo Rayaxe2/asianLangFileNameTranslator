@@ -41,6 +41,7 @@ Plans:
   - Make the program put files from the same track, series or group into their own folder
   - Make program optionally show a breakdown of what langauge files were classified as and how many files were translated and had their name cropped
   - Allow Users to add suffixes and prefixes to resulting files
+  - Allow Users to remove part of file name that is unwanted (E.G. artist or channel name)
   - Create GUI
     - Add progress bar
     - Display file list and metadata
