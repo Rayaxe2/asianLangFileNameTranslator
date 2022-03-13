@@ -1,4 +1,4 @@
-# asianLangFileNameTranslator
+# AsianLangFileNameTranslator
 Translates mp3 file names (within a given directory and it's sub directories) written in Japanese, mandarin, Cantonese, Korean (and a few other languages) text to English. It's pretty cave-man ish - It'll properly organise it later.
 
 Accomplishments:
@@ -45,6 +45,7 @@ Plans:
     - Add progress bar
     - Display file list and metadata
     - Allow users to use the windows file selector to select files, directories and destinations
+  - Add multuthreading so trasnalted names can be applied while translation continues
 
 - Check/Research
   - Check if translating chunks to Japanese is the same as translating each line to Japanese
