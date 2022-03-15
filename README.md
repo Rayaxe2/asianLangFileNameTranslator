@@ -80,6 +80,7 @@ Plans:
   - Make program optionally show a breakdown of what langauge files were classified as and how many files were translated and had their name cropped
   - Make program only run in certain directories in a file with a certain name to prevent it running on important files
   - Make program run itself again if 429 error - this has be done, but it doesn't work, figure out how to make it run as if play has been pressed again
+  - Make program get rid of all leftover CJK characters post translation
   - Allow Users to add suffixes and prefixes to resulting files
   - Allow Users to remove part of file name that is unwanted (E.G. artist or channel name)
   - Allow user to undo-renaming
