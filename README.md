@@ -89,6 +89,7 @@ Plans:
     - Display file list and metadata
     - Allow users to use the windows file selector to select files, directories and destinations
   - Add multuthreading so trssnalted names can be applied while translation continues
+  - Deal with case where file that was going to be renamed no longer exists
 
 - Check/Research
   - Check if translating chunks to Japanese is the same as translating each line to Japanese
