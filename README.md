@@ -1,5 +1,6 @@
 # AsianLangFileNameTranslator
 Translates mp3 file names (within a given directory and it's sub directories) written in Japanese, mandarin, Cantonese, Korean (and a few other languages) text to English. It's pretty cave-man ish - It'll properly organise it later.
+I plan to use it to translate the filenames of all the Japanese CD/Radio Drama and music files I have.
 
 Accomplishments:
 ------
@@ -79,6 +80,7 @@ Plans:
   - Make program optionally show a breakdown of what langauge files were classified as and how many files were translated and had their name cropped
   - Make program only run in certain directories in a file with a certain name to prevent it running on important files
   - Make program run itself again if 429 error - this has be done, but it doesn't work, figure out how to make it run as if play has been pressed again
+  - Make program get rid of all leftover CJK characters post translation
   - Allow Users to add suffixes and prefixes to resulting files
   - Allow Users to remove part of file name that is unwanted (E.G. artist or channel name)
   - Allow user to undo-renaming
@@ -87,6 +89,7 @@ Plans:
     - Display file list and metadata
     - Allow users to use the windows file selector to select files, directories and destinations
   - Add multuthreading so trssnalted names can be applied while translation continues
+  - Deal with case where file that was going to be renamed no longer exists
 
 - Check/Research
   - Check if translating chunks to Japanese is the same as translating each line to Japanese
